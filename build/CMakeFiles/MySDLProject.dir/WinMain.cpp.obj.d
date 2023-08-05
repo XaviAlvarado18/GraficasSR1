@@ -619,4 +619,12 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.1.0/bits/vector.tcc \
  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/shapes.h \
  C:/msys64/mingw64/include/c++/13.1.0/array \
- C:/msys64/mingw64/include/c++/13.1.0/compare
+ C:/msys64/mingw64/include/c++/13.1.0/compare \
+ C:/msys64/mingw64/include/SDL.h \
+ C:/msys64/mingw64/include/c++/13.1.0/fstream \
+ C:/msys64/mingw64/include/c++/13.1.0/bits/codecvt.h \
+ C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h \
+ C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++io.h \
+ C:/msys64/mingw64/include/c++/13.1.0/bits/fstream.tcc \
+ C:/msys64/mingw64/include/c++/13.1.0/sstream \
+ C:/msys64/mingw64/include/c++/13.1.0/bits/sstream.tcc

@@ -3,7 +3,6 @@
 
 CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/WinMain.cpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/draw.h \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/shapes.h \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/common.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/_fixes.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/_vectorize.hpp \
@@ -250,7 +249,6 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/basetsd.h \
   C:/msys64/mingw64/include/bcrypt.h \
   C:/msys64/mingw64/include/bemapiset.h \
-  C:/msys64/mingw64/include/c++/13.1.0/array \
   C:/msys64/mingw64/include/c++/13.1.0/backward/binders.h \
   C:/msys64/mingw64/include/c++/13.1.0/bit \
   C:/msys64/mingw64/include/c++/13.1.0/bits/alloc_traits.h \
@@ -261,6 +259,7 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/bits/basic_string.tcc \
   C:/msys64/mingw64/include/c++/13.1.0/bits/char_traits.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/charconv.h \
+  C:/msys64/mingw64/include/c++/13.1.0/bits/codecvt.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/concept_check.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/cpp_type_traits.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/cxxabi_forced.h \
@@ -268,6 +267,7 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/bits/exception.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/exception_defines.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/exception_ptr.h \
+  C:/msys64/mingw64/include/c++/13.1.0/bits/fstream.tcc \
   C:/msys64/mingw64/include/c++/13.1.0/bits/functexcept.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/functional_hash.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/hash_bytes.h \
@@ -293,6 +293,7 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/bits/refwrap.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/requires_hosted.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/specfun.h \
+  C:/msys64/mingw64/include/c++/13.1.0/bits/sstream.tcc \
   C:/msys64/mingw64/include/c++/13.1.0/bits/std_abs.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/stl_algobase.h \
   C:/msys64/mingw64/include/c++/13.1.0/bits/stl_bvector.h \
@@ -319,7 +320,6 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/climits \
   C:/msys64/mingw64/include/c++/13.1.0/clocale \
   C:/msys64/mingw64/include/c++/13.1.0/cmath \
-  C:/msys64/mingw64/include/c++/13.1.0/compare \
   C:/msys64/mingw64/include/c++/13.1.0/cstddef \
   C:/msys64/mingw64/include/c++/13.1.0/cstdint \
   C:/msys64/mingw64/include/c++/13.1.0/cstdio \
@@ -336,6 +336,7 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/ext/numeric_traits.h \
   C:/msys64/mingw64/include/c++/13.1.0/ext/string_conversions.h \
   C:/msys64/mingw64/include/c++/13.1.0/ext/type_traits.h \
+  C:/msys64/mingw64/include/c++/13.1.0/fstream \
   C:/msys64/mingw64/include/c++/13.1.0/initializer_list \
   C:/msys64/mingw64/include/c++/13.1.0/ios \
   C:/msys64/mingw64/include/c++/13.1.0/iosfwd \
@@ -346,6 +347,7 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/new \
   C:/msys64/mingw64/include/c++/13.1.0/ostream \
   C:/msys64/mingw64/include/c++/13.1.0/pstl/pstl_config.h \
+  C:/msys64/mingw64/include/c++/13.1.0/sstream \
   C:/msys64/mingw64/include/c++/13.1.0/stdexcept \
   C:/msys64/mingw64/include/c++/13.1.0/stdlib.h \
   C:/msys64/mingw64/include/c++/13.1.0/streambuf \
@@ -369,8 +371,10 @@ CMakeFiles/MySDLProject.dir/WinMain.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/
   C:/msys64/mingw64/include/c++/13.1.0/typeinfo \
   C:/msys64/mingw64/include/c++/13.1.0/vector \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
+  C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++io.h \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++locale.h \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_base.h \
@@ -1065,7 +1069,6 @@ CMakeFiles/MySDLProject.dir/draw.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/Sem
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xtestintrin.h
 
 CMakeFiles/MySDLProject.dir/shapes.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/shapes.cpp \
-  C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/draw.h \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/shapes.h \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/common.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/_fixes.hpp \
@@ -1200,63 +1203,62 @@ CMakeFiles/MySDLProject.dir/shapes.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/S
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/vec3.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/vec4.hpp \
   C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/vector_relational.hpp \
-  C:/msys64/mingw64/include/SDL2/SDL.h \
-  C:/msys64/mingw64/include/SDL2/SDL_assert.h \
-  C:/msys64/mingw64/include/SDL2/SDL_atomic.h \
-  C:/msys64/mingw64/include/SDL2/SDL_audio.h \
-  C:/msys64/mingw64/include/SDL2/SDL_blendmode.h \
-  C:/msys64/mingw64/include/SDL2/SDL_clipboard.h \
-  C:/msys64/mingw64/include/SDL2/SDL_config.h \
-  C:/msys64/mingw64/include/SDL2/SDL_cpuinfo.h \
-  C:/msys64/mingw64/include/SDL2/SDL_endian.h \
-  C:/msys64/mingw64/include/SDL2/SDL_error.h \
-  C:/msys64/mingw64/include/SDL2/SDL_events.h \
-  C:/msys64/mingw64/include/SDL2/SDL_filesystem.h \
-  C:/msys64/mingw64/include/SDL2/SDL_gamecontroller.h \
-  C:/msys64/mingw64/include/SDL2/SDL_gesture.h \
-  C:/msys64/mingw64/include/SDL2/SDL_guid.h \
-  C:/msys64/mingw64/include/SDL2/SDL_haptic.h \
-  C:/msys64/mingw64/include/SDL2/SDL_hidapi.h \
-  C:/msys64/mingw64/include/SDL2/SDL_hints.h \
-  C:/msys64/mingw64/include/SDL2/SDL_joystick.h \
-  C:/msys64/mingw64/include/SDL2/SDL_keyboard.h \
-  C:/msys64/mingw64/include/SDL2/SDL_keycode.h \
-  C:/msys64/mingw64/include/SDL2/SDL_loadso.h \
-  C:/msys64/mingw64/include/SDL2/SDL_locale.h \
-  C:/msys64/mingw64/include/SDL2/SDL_log.h \
-  C:/msys64/mingw64/include/SDL2/SDL_main.h \
-  C:/msys64/mingw64/include/SDL2/SDL_messagebox.h \
-  C:/msys64/mingw64/include/SDL2/SDL_metal.h \
-  C:/msys64/mingw64/include/SDL2/SDL_misc.h \
-  C:/msys64/mingw64/include/SDL2/SDL_mouse.h \
-  C:/msys64/mingw64/include/SDL2/SDL_mutex.h \
-  C:/msys64/mingw64/include/SDL2/SDL_pixels.h \
-  C:/msys64/mingw64/include/SDL2/SDL_platform.h \
-  C:/msys64/mingw64/include/SDL2/SDL_power.h \
-  C:/msys64/mingw64/include/SDL2/SDL_quit.h \
-  C:/msys64/mingw64/include/SDL2/SDL_rect.h \
-  C:/msys64/mingw64/include/SDL2/SDL_render.h \
-  C:/msys64/mingw64/include/SDL2/SDL_rwops.h \
-  C:/msys64/mingw64/include/SDL2/SDL_scancode.h \
-  C:/msys64/mingw64/include/SDL2/SDL_sensor.h \
-  C:/msys64/mingw64/include/SDL2/SDL_shape.h \
-  C:/msys64/mingw64/include/SDL2/SDL_stdinc.h \
-  C:/msys64/mingw64/include/SDL2/SDL_surface.h \
-  C:/msys64/mingw64/include/SDL2/SDL_system.h \
-  C:/msys64/mingw64/include/SDL2/SDL_thread.h \
-  C:/msys64/mingw64/include/SDL2/SDL_timer.h \
-  C:/msys64/mingw64/include/SDL2/SDL_touch.h \
-  C:/msys64/mingw64/include/SDL2/SDL_version.h \
-  C:/msys64/mingw64/include/SDL2/SDL_video.h \
-  C:/msys64/mingw64/include/SDL2/begin_code.h \
-  C:/msys64/mingw64/include/SDL2/close_code.h \
+  C:/msys64/mingw64/include/SDL.h \
+  C:/msys64/mingw64/include/SDL_assert.h \
+  C:/msys64/mingw64/include/SDL_atomic.h \
+  C:/msys64/mingw64/include/SDL_audio.h \
+  C:/msys64/mingw64/include/SDL_blendmode.h \
+  C:/msys64/mingw64/include/SDL_clipboard.h \
+  C:/msys64/mingw64/include/SDL_config.h \
+  C:/msys64/mingw64/include/SDL_config_windows.h \
+  C:/msys64/mingw64/include/SDL_cpuinfo.h \
+  C:/msys64/mingw64/include/SDL_endian.h \
+  C:/msys64/mingw64/include/SDL_error.h \
+  C:/msys64/mingw64/include/SDL_events.h \
+  C:/msys64/mingw64/include/SDL_filesystem.h \
+  C:/msys64/mingw64/include/SDL_gamecontroller.h \
+  C:/msys64/mingw64/include/SDL_gesture.h \
+  C:/msys64/mingw64/include/SDL_guid.h \
+  C:/msys64/mingw64/include/SDL_haptic.h \
+  C:/msys64/mingw64/include/SDL_hidapi.h \
+  C:/msys64/mingw64/include/SDL_hints.h \
+  C:/msys64/mingw64/include/SDL_joystick.h \
+  C:/msys64/mingw64/include/SDL_keyboard.h \
+  C:/msys64/mingw64/include/SDL_keycode.h \
+  C:/msys64/mingw64/include/SDL_loadso.h \
+  C:/msys64/mingw64/include/SDL_locale.h \
+  C:/msys64/mingw64/include/SDL_log.h \
+  C:/msys64/mingw64/include/SDL_main.h \
+  C:/msys64/mingw64/include/SDL_messagebox.h \
+  C:/msys64/mingw64/include/SDL_metal.h \
+  C:/msys64/mingw64/include/SDL_misc.h \
+  C:/msys64/mingw64/include/SDL_mouse.h \
+  C:/msys64/mingw64/include/SDL_mutex.h \
+  C:/msys64/mingw64/include/SDL_pixels.h \
+  C:/msys64/mingw64/include/SDL_platform.h \
+  C:/msys64/mingw64/include/SDL_power.h \
+  C:/msys64/mingw64/include/SDL_quit.h \
+  C:/msys64/mingw64/include/SDL_rect.h \
+  C:/msys64/mingw64/include/SDL_render.h \
+  C:/msys64/mingw64/include/SDL_rwops.h \
+  C:/msys64/mingw64/include/SDL_scancode.h \
+  C:/msys64/mingw64/include/SDL_sensor.h \
+  C:/msys64/mingw64/include/SDL_shape.h \
+  C:/msys64/mingw64/include/SDL_stdinc.h \
+  C:/msys64/mingw64/include/SDL_surface.h \
+  C:/msys64/mingw64/include/SDL_system.h \
+  C:/msys64/mingw64/include/SDL_thread.h \
+  C:/msys64/mingw64/include/SDL_timer.h \
+  C:/msys64/mingw64/include/SDL_touch.h \
+  C:/msys64/mingw64/include/SDL_version.h \
+  C:/msys64/mingw64/include/SDL_video.h \
   C:/msys64/mingw64/include/_mingw.h \
   C:/msys64/mingw64/include/_mingw_mac.h \
   C:/msys64/mingw64/include/_mingw_off_t.h \
   C:/msys64/mingw64/include/_mingw_secapi.h \
-  C:/msys64/mingw64/include/_mingw_stat64.h \
   C:/msys64/mingw64/include/_mingw_stdarg.h \
   C:/msys64/mingw64/include/assert.h \
+  C:/msys64/mingw64/include/begin_code.h \
   C:/msys64/mingw64/include/c++/13.1.0/array \
   C:/msys64/mingw64/include/c++/13.1.0/backward/binders.h \
   C:/msys64/mingw64/include/c++/13.1.0/bit \
@@ -1310,7 +1312,6 @@ CMakeFiles/MySDLProject.dir/shapes.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/S
   C:/msys64/mingw64/include/c++/13.1.0/ext/type_traits.h \
   C:/msys64/mingw64/include/c++/13.1.0/initializer_list \
   C:/msys64/mingw64/include/c++/13.1.0/limits \
-  C:/msys64/mingw64/include/c++/13.1.0/math.h \
   C:/msys64/mingw64/include/c++/13.1.0/new \
   C:/msys64/mingw64/include/c++/13.1.0/pstl/pstl_config.h \
   C:/msys64/mingw64/include/c++/13.1.0/stdlib.h \
@@ -1333,38 +1334,31 @@ CMakeFiles/MySDLProject.dir/shapes.cpp.obj: C:/Users/Alvar/OneDrive/Documentos/S
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
   C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/msys64/mingw64/include/close_code.h \
   C:/msys64/mingw64/include/corecrt.h \
   C:/msys64/mingw64/include/corecrt_startup.h \
-  C:/msys64/mingw64/include/corecrt_stdio_config.h \
   C:/msys64/mingw64/include/corecrt_wstdlib.h \
   C:/msys64/mingw64/include/crtdefs.h \
-  C:/msys64/mingw64/include/ctype.h \
   C:/msys64/mingw64/include/errno.h \
   C:/msys64/mingw64/include/float.h \
   C:/msys64/mingw64/include/intrin.h \
-  C:/msys64/mingw64/include/inttypes.h \
   C:/msys64/mingw64/include/limits.h \
   C:/msys64/mingw64/include/malloc.h \
   C:/msys64/mingw64/include/math.h \
   C:/msys64/mingw64/include/process.h \
   C:/msys64/mingw64/include/psdk_inc/intrin-impl.h \
+  C:/msys64/mingw64/include/sdkddkver.h \
   C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
-  C:/msys64/mingw64/include/sec_api/stdio_s.h \
   C:/msys64/mingw64/include/sec_api/stdlib_s.h \
-  C:/msys64/mingw64/include/sec_api/string_s.h \
-  C:/msys64/mingw64/include/sec_api/wchar_s.h \
   C:/msys64/mingw64/include/setjmp.h \
   C:/msys64/mingw64/include/stdarg.h \
   C:/msys64/mingw64/include/stddef.h \
   C:/msys64/mingw64/include/stdint.h \
-  C:/msys64/mingw64/include/stdio.h \
   C:/msys64/mingw64/include/stdlib.h \
-  C:/msys64/mingw64/include/string.h \
-  C:/msys64/mingw64/include/strings.h \
-  C:/msys64/mingw64/include/swprintf.inl \
   C:/msys64/mingw64/include/sys/types.h \
   C:/msys64/mingw64/include/vadefs.h \
-  C:/msys64/mingw64/include/wchar.h \
+  C:/msys64/mingw64/include/winapifamily.h \
+  C:/msys64/mingw64/include/winsdkver.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/adxintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ammintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxbf16intrin.h \
@@ -1479,11 +1473,9 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/msys64/mingw64/include/_bsd_types.h:
 
+C:/msys64/mingw64/include/SDL_locale.h:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/compute_common.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/vector_relational.hpp:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/shapes.h:
 
 C:/msys64/mingw64/include/winreg.h:
 
@@ -1498,6 +1490,12 @@ C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_base.h:
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/WinMain.cpp:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/move.h:
+
+C:/msys64/mingw64/include/wnnc.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/bits/locale_facets.tcc:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/func_common.inl:
 
 C:/msys64/mingw64/include/c++/13.1.0/iostream:
 
@@ -1529,12 +1527,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avxneconvertintrin.h
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/_vectorize.hpp:
 
-C:/msys64/mingw64/include/wnnc.h:
-
-C:/msys64/mingw64/include/c++/13.1.0/bits/locale_facets.tcc:
-
-C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/func_common.inl:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec3.inl:
 
 C:/msys64/mingw64/include/c++/13.1.0/pstl/pstl_config.h:
@@ -1554,6 +1546,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/func_integer.inl:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat2x3.inl:
+
+C:/msys64/mingw64/include/SDL_log.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/func_packing.inl:
 
@@ -1587,6 +1581,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/setup.hpp:
 
+C:/msys64/mingw64/include/SDL_misc.h:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat3x2.hpp:
 
 C:/msys64/mingw64/include/cderr.h:
@@ -1610,6 +1606,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/msys64/mingw64/include/SDL2/SDL_sensor.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float2_precision.hpp:
+
+C:/msys64/mingw64/include/SDL_platform.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/stringfwd.h:
 
@@ -1647,6 +1645,8 @@ C:/msys64/mingw64/include/basetsd.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/predefined_ops.h:
 
+C:/msys64/mingw64/include/SDL_config.h:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat2x4.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/gtc/matrix_transform.inl:
@@ -1675,6 +1675,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/mat4x3.hpp:
 
+C:/msys64/mingw64/include/SDL_cpuinfo.h:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_uint1.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_vec1.inl:
@@ -1689,11 +1691,11 @@ C:/msys64/mingw64/include/pthread_compat.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/exception:
 
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/rdseedintrin.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/sstream:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat3x3.inl:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vnniintrin.h:
-
-C:/msys64/mingw64/include/threadpoolapiset.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double3x3.hpp:
 
@@ -1704,6 +1706,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/msys64/mingw64/include/processthreadsapi.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat3x4.inl:
+
+C:/msys64/mingw64/include/SDL_hints.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512erintrin.h:
 
@@ -1722,6 +1726,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/msys64/mingw64/include/c++/13.1.0/bits/utility.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_mat4x4.inl:
+
+C:/msys64/mingw64/include/SDL_keyboard.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/detail/type_quat.hpp:
 
@@ -1763,9 +1769,11 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/msys64/mingw64/include/crtdefs.h:
 
+C:/msys64/mingw64/include/sysinfoapi.h:
+
 C:/msys64/mingw64/include/stdarg.h:
 
-C:/msys64/mingw64/include/sysinfoapi.h:
+C:/msys64/mingw64/include/SDL_timer.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_double4x3.hpp:
 
@@ -1789,13 +1797,11 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/msys64/mingw64/include/oleidl.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
-
-C:/msys64/mingw64/include/sys/types.h:
-
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x4.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float2x4_precision.hpp:
+
+C:/msys64/mingw64/include/c++/13.1.0/bits/sstream.tcc:
 
 C:/msys64/mingw64/include/propidl.h:
 
@@ -1804,6 +1810,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float3x2.hpp:
 
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h:
+
+C:/msys64/mingw64/include/SDL_hidapi.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/matrix_float3x2_precision.hpp:
 
@@ -1843,9 +1851,13 @@ C:/msys64/mingw64/include/windef.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_common.hpp:
 
+C:/msys64/mingw64/include/SDL_metal.h:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_double.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_double_precision.hpp:
+
+C:/msys64/mingw64/include/SDL_version.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_float.hpp:
 
@@ -1879,6 +1891,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_trigonometric.hpp:
 
+C:/msys64/mingw64/include/SDL_haptic.h:
+
 C:/msys64/mingw64/include/rpcndr.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/quaternion_trigonometric.inl:
@@ -1893,7 +1907,7 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool1.hpp:
 
-C:/msys64/mingw64/include/c++/13.1.0/array:
+C:/msys64/mingw64/include/begin_code.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_bool1_precision.hpp:
 
@@ -1947,6 +1961,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/msys64/mingw64/include/guiddef.h:
 
+C:/msys64/mingw64/include/SDL_error.h:
+
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float1.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_float2.hpp:
@@ -1986,6 +2002,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm3dnow.h:
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int1_sized.hpp:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/ext/vector_int2.hpp:
+
+C:/msys64/mingw64/include/c++/13.1.0/fstream:
 
 C:/msys64/mingw64/include/utilapiset.h:
 
@@ -2067,6 +2085,8 @@ C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-mast
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/vec4.hpp:
 
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/src/include/glm-master/glm/vector_relational.hpp:
+
 C:/msys64/mingw64/include/SDL2/SDL.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_assert.h:
@@ -2137,7 +2157,11 @@ C:/msys64/mingw64/include/SDL2/SDL_rect.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_render.h:
 
+C:/msys64/mingw64/include/SDL_surface.h:
+
 C:/msys64/mingw64/include/SDL2/SDL_rwops.h:
+
+C:/msys64/mingw64/include/SDL_joystick.h:
 
 C:/msys64/mingw64/include/SDL2/SDL_scancode.h:
 
@@ -2217,6 +2241,10 @@ C:/msys64/mingw64/include/c++/13.1.0/bits/basic_string.tcc:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/char_traits.h:
 
+C:/msys64/mingw64/include/c++/13.1.0/bits/exception_ptr.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/bits/codecvt.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/clzerointrin.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/tr1/riemann_zeta.tcc:
@@ -2235,7 +2263,11 @@ C:/msys64/mingw64/include/c++/13.1.0/tr1/modified_bessel_func.tcc:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/exception_defines.h:
 
-C:/msys64/mingw64/include/c++/13.1.0/bits/exception_ptr.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/keylockerintrin.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/bits/fstream.tcc:
+
+C:/msys64/mingw64/include/SDL_clipboard.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/locale_classes.h:
 
@@ -2293,6 +2325,8 @@ C:/msys64/mingw64/include/sec_api/stralign_s.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/specfun.h:
 
+C:/msys64/mingw64/include/SDL_mutex.h:
+
 C:/msys64/mingw64/include/c++/13.1.0/bits/std_abs.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/bits/stl_bvector.h:
@@ -2336,8 +2370,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsaveintrin.h:
 C:/msys64/mingw64/include/c++/13.1.0/clocale:
 
 C:/msys64/mingw64/include/c++/13.1.0/cmath:
-
-C:/msys64/mingw64/include/c++/13.1.0/compare:
 
 C:/msys64/mingw64/include/c++/13.1.0/cstdint:
 
@@ -2393,6 +2425,8 @@ C:/msys64/mingw64/include/c++/13.1.0/tuple:
 
 C:/msys64/mingw64/include/c++/13.1.0/vector:
 
+C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h:
+
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++allocator.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h:
@@ -2403,9 +2437,13 @@ C:/msys64/mingw64/include/signal.h:
 
 C:/msys64/mingw64/include/mcx.h:
 
+C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++io.h:
+
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++locale.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
+
+C:/msys64/mingw64/include/SDL_keycode.h:
 
 C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/ctype_inline.h:
 
@@ -2466,6 +2504,8 @@ C:/msys64/mingw64/include/fltwinerror.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h:
 
 C:/msys64/mingw64/include/handleapi.h:
+
+C:/msys64/mingw64/include/SDL_endian.h:
 
 C:/msys64/mingw64/include/imm.h:
 
@@ -2533,9 +2573,13 @@ C:/msys64/mingw64/include/ole2.h:
 
 C:/msys64/mingw64/include/oleauto.h:
 
+C:/msys64/mingw64/include/SDL_main.h:
+
 C:/msys64/mingw64/include/playsoundapi.h:
 
 C:/msys64/mingw64/include/poppack.h:
+
+C:/msys64/mingw64/include/SDL_touch.h:
 
 C:/msys64/mingw64/include/process.h:
 
@@ -2565,9 +2609,9 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pmmintrin.h:
 
 C:/msys64/mingw64/include/pshpack4.h:
 
-C:/msys64/mingw64/include/pthread.h:
-
 C:/msys64/mingw64/include/systemtopologyapi.h:
+
+C:/msys64/mingw64/include/pthread.h:
 
 C:/msys64/mingw64/include/realtimeapiset.h:
 
@@ -2596,6 +2640,14 @@ C:/msys64/mingw64/include/stdlib.h:
 C:/msys64/mingw64/include/stringapiset.h:
 
 C:/msys64/mingw64/include/synchapi.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
+
+C:/msys64/mingw64/include/sys/types.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vnniintrin.h:
+
+C:/msys64/mingw64/include/threadpoolapiset.h:
 
 C:/msys64/mingw64/include/threadpoollegacyapiset.h:
 
@@ -2634,6 +2686,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/serializeintrin.h:
 C:/msys64/mingw64/include/winefs.h:
 
 C:/msys64/mingw64/include/winerror.h:
+
+C:/msys64/mingw64/include/SDL_audio.h:
 
 C:/msys64/mingw64/include/wingdi.h:
 
@@ -2727,13 +2781,13 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fma4intrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fmaintrin.h:
 
+C:/msys64/mingw64/include/SDL_system.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fxsrintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/gfniintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/hresetintrin.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/keylockerintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
 
@@ -2755,9 +2809,9 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/prfchwintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/raointintrin.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/rdseedintrin.h:
-
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/rtmintrin.h:
+
+C:/msys64/mingw64/include/SDL_render.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/sgxintrin.h:
 
@@ -2790,3 +2844,61 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsaveoptintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xtestintrin.h:
 
 C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/draw.cpp:
+
+C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab3/shapes.h:
+
+C:/msys64/mingw64/include/SDL.h:
+
+C:/msys64/mingw64/include/SDL_assert.h:
+
+C:/msys64/mingw64/include/SDL_atomic.h:
+
+C:/msys64/mingw64/include/SDL_blendmode.h:
+
+C:/msys64/mingw64/include/SDL_config_windows.h:
+
+C:/msys64/mingw64/include/SDL_events.h:
+
+C:/msys64/mingw64/include/SDL_filesystem.h:
+
+C:/msys64/mingw64/include/SDL_gamecontroller.h:
+
+C:/msys64/mingw64/include/SDL_gesture.h:
+
+C:/msys64/mingw64/include/SDL_guid.h:
+
+C:/msys64/mingw64/include/SDL_loadso.h:
+
+C:/msys64/mingw64/include/SDL_messagebox.h:
+
+C:/msys64/mingw64/include/SDL_mouse.h:
+
+C:/msys64/mingw64/include/SDL_pixels.h:
+
+C:/msys64/mingw64/include/SDL_rwops.h:
+
+C:/msys64/mingw64/include/SDL_power.h:
+
+C:/msys64/mingw64/include/SDL_quit.h:
+
+C:/msys64/mingw64/include/SDL_rect.h:
+
+C:/msys64/mingw64/include/SDL_scancode.h:
+
+C:/msys64/mingw64/include/SDL_sensor.h:
+
+C:/msys64/mingw64/include/SDL_shape.h:
+
+C:/msys64/mingw64/include/SDL_stdinc.h:
+
+C:/msys64/mingw64/include/SDL_thread.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/compare:
+
+C:/msys64/mingw64/include/SDL_video.h:
+
+C:/msys64/mingw64/include/c++/13.1.0/array:
+
+C:/msys64/mingw64/include/close_code.h:
+
+C:/msys64/mingw64/include/winsdkver.h:

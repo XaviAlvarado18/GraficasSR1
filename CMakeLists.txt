@@ -6,8 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 set(SOURCES
     WinMain.cpp
-    draw.cpp
     shapes.cpp
+    draw.cpp
 )
 
 

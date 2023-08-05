@@ -10,19 +10,15 @@ const int FRAMEBUFFER_WIDTH = 800; // Ancho del framebuffer
 const int FRAMEBUFFER_HEIGHT = 600; 
 
 
-struct Color {
-    uint8_t r;
-    uint8_t g;
-    uint8_t b;
-    uint8_t a;
+class Vertex {
+public:
+    glm::vec3 position;
+
+    Vertex(float x, float y, float z) : position(x, y, z) {}
+
+    float getX() const { return position.x; }
+    float getY() const { return position.y; }
 };
 
-extern std::vector<Color> framebuffer; // Declaración extern de framebuffer
-
-
-
-
-void point(const glm::ivec2& point);
-void line(const glm::vec3& p1, const glm::vec3& p2);
 
 #endif
